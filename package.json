@@ -1,0 +1,7 @@
+{
+  "name": "tiktok-downloader-web",
+  "private": true,
+  "type": "module",
+  "engines": { "node": "22.x" },
+  "dependencies": { "fflate": "^0.8.2" }
+}
